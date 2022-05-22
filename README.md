@@ -7,13 +7,14 @@ This is simple blog application build with Node ,express and typescript along wi
 ## Backend ##
 
 1.clone the repository
+
 2.execute the command
  - `cd src`
  - `npm install`
  - rename credentials.example to credentials.ts(`mv credentials.txt credentials.ts`)
  - `npm start dev`
     
-    (create a new dist file)
+    (Will create a new dist file)
 
 
 
