@@ -162,5 +162,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #server
-/src/config/credential
 /dist
+/.vscode
+/src/config/credential.ts
