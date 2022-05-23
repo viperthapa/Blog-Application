@@ -11,7 +11,7 @@ This is simple blog application build with Node ,express and typescript along wi
 2.execute the command
  - `cd src`
  - `npm install`
- - rename credentials.example to credentials.ts(`mv credentials.txt credentials.ts`)
+ - rename credentials.example to credentials.ts(`mv credentials.example credentials.ts`)
  - `npm start dev`
     
     (Will create a new dist file)
